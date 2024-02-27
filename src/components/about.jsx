@@ -21,8 +21,9 @@ const About = () => {
             <AboutTextH2>About us</AboutTextH2>
             <AboutTextSm>
               I started selling in the year 2019. I have always had a flair and
-              deep interest for hairs. I am looking at a lady and its the first
-              thing i see before any other thing is her hair. Being in the hair
+              deep interest for hairs. Looking at a lady and the first thing that gets my attention is her hair, 
+              because our face card never decline.
+              Dimchi Hairs is birthed to boost and maintain such confidence. Being in the hair
               business is not just cause of the money but cause i love to see
               women slaying and walking with so much confidence cause our face
               card never declines with Dimchi Hairs.
