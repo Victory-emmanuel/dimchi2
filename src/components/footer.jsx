@@ -47,7 +47,7 @@ const Footer = () => {
                     width: { lg: "1em", md: "1em", sm: "1em", xs: "0.8em" },
                   }}
                 />
-                <FooterSmText>+2349162928691</FooterSmText>
+                <FooterSmText>+2348166757488</FooterSmText>
               </p>
               <p>
                 <EmailRounded
@@ -55,7 +55,7 @@ const Footer = () => {
                     width: { lg: "1em", md: "1em", sm: "1em", xs: "0.8em" },
                   }}
                 />
-                <FooterSmText>dimchi@gmail.com</FooterSmText>
+                <FooterSmText>dimchiluxuryhairs@gmail.com</FooterSmText>
               </p>
             </div>
             <div className="socials">
