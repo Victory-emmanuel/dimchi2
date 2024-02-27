@@ -327,6 +327,7 @@ const AboutTextContainer = styled.div`
   @media (max-width: 450px) {
     font-size: 1.8rem;
     padding-left: 1rem;
+     padding-right: 1rem;
   }
 `;
 const AboutTextGrid = styled.div`
