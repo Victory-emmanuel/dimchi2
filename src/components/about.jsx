@@ -25,8 +25,7 @@ const About = () => {
               because our face card never decline.
               Dimchi Hairs is birthed to boost and maintain such confidence. Being in the hair
               business is not just cause of the money but cause i love to see
-              women slaying and walking with so much confidence cause our face
-              card never declines with Dimchi Hairs.
+              women slaying and walking with so much confidence.
             </AboutTextSm>
             <Link to={"https://wa.link/0m8iqw"}>
               <AboutTextButton>
