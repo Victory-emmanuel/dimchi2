@@ -82,7 +82,6 @@ const Footer = () => {
                     }}
                   />
                 </Link>
-                
                 <Link
                   style={{ color: "#392a16" }}
                   to={"https://g.co/kgs/j6wUje3"}
