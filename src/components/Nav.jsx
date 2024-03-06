@@ -1,4 +1,4 @@
-import { Google, Instagram, Language, WhatsApp } from "@mui/icons-material";
+import { Google, Instagram, WhatsApp } from "@mui/icons-material";
 import logo from "../assets/logo.png";
 import {
   Logo,
@@ -64,14 +64,7 @@ const Nav = () => {
               }}
             />
           </StyledNavIcon>
-          <StyledNavIcon
-            to={"https://www.dimchiluxuryhairsandaccessories.com.ng/"}
-          >
-            <Language
-              sx={{
-                width: { lg: "1em", md: "1em", sm: "1em", xs: "0.8em" },
-              }}
-            />
+          
           </StyledNavIcon>
           <StyledNavIcon to={"https://g.co/kgs/j6wUje3"}>
             <Google
