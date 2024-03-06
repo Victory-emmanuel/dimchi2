@@ -12,7 +12,6 @@ import {
   EmailRounded,
   Google,
   Instagram,
-  Language,
   PhoneCallbackRounded,
   WhatsApp,
 } from "@mui/icons-material";
@@ -83,16 +82,7 @@ const Footer = () => {
                     }}
                   />
                 </Link>
-                <Link
-                  style={{ color: "#392a16" }}
-                  to={"https://www.dimchiluxuryhairsandaccessories.com.ng/"}
-                >
-                  <Language
-                    sx={{
-                      width: { lg: "1em", md: "1em", sm: "1em", xs: "0.8em" },
-                    }}
-                  />
-                </Link>
+                
                 <Link
                   style={{ color: "#392a16" }}
                   to={"https://g.co/kgs/j6wUje3"}
