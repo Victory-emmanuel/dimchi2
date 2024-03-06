@@ -64,8 +64,6 @@ const Nav = () => {
               }}
             />
           </StyledNavIcon>
-          
-          </StyledNavIcon>
           <StyledNavIcon to={"https://g.co/kgs/j6wUje3"}>
             <Google
               sx={{
